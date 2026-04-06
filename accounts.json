@@ -1,0 +1,16 @@
+[
+  {
+    "name": "发布账号",
+    "username": "cykj1314",
+    "password": "Nxkj18607072433!",
+    "is_default_publish": true,
+    "is_default_scrape": false
+  },
+  {
+    "name": "采集账号",
+    "username": "ffdn1314",
+    "password": "Nxkj18607072433!",
+    "is_default_publish": false,
+    "is_default_scrape": true
+  }
+]
